@@ -1,0 +1,101 @@
+Field ID,Crop Type (predicted),Growth Stage,Stress Index Used,Index Value,Stress Level,8-Day Water Deficit (mm),Irrigation Advisory
+F_000,Soybean,reproductive,SAR VH/VV ratio,0.3496,Moderate,18.8,Urgent irrigation
+F_001,Paddy,reproductive,SAR VH/VV ratio,0.2128,Severe,20.72,Urgent irrigation
+F_002,Fallow,maturity,VCI,0.3718,Moderate,0.0,No action
+F_003,Soybean,reproductive,SAR VH/VV ratio,0.3486,Moderate,18.8,Urgent irrigation
+F_004,Cotton,reproductive,SAR VH/VV ratio,0.4269,Moderate,18.8,Urgent irrigation
+F_005,Sugarcane,maturity,VCI,0.6711,Low,3.44,No action
+F_006,Fallow,sowing,NDVI_anomaly + SMI,0.1507,Low,0.0,No action
+F_007,Fallow,sowing,NDVI_anomaly + SMI,0.4315,Moderate,0.0,No action
+F_008,Fallow,vegetative,NDWI,-0.4636,Severe,0.0,No action
+F_009,Soybean,reproductive,SAR VH/VV ratio,0.3834,Moderate,18.8,Urgent irrigation
+F_010,Paddy,reproductive,SAR VH/VV ratio,0.2779,Severe,20.72,Urgent irrigation
+F_011,Sugarcane,reproductive,SAR VH/VV ratio,0.2835,Severe,22.64,Urgent irrigation
+F_012,Soybean,reproductive,SAR VH/VV ratio,0.3331,Moderate,18.8,Urgent irrigation
+F_013,Fallow,sowing,NDVI_anomaly + SMI,0.3079,Moderate,0.0,No action
+F_014,Paddy,reproductive,SAR VH/VV ratio,0.3309,Moderate,20.72,Urgent irrigation
+F_015,Soybean,reproductive,SAR VH/VV ratio,0.3812,Moderate,18.8,Urgent irrigation
+F_016,Paddy,reproductive,SAR VH/VV ratio,0.3196,Moderate,20.72,Urgent irrigation
+F_017,Sugarcane,reproductive,SAR VH/VV ratio,0.2561,Severe,22.64,Urgent irrigation
+F_018,Fallow,vegetative,NDWI,-0.5104,Severe,0.0,No action
+F_019,Cotton,maturity,VCI,0.6917,Low,1.52,No action
+F_020,Sugarcane,reproductive,SAR VH/VV ratio,0.2402,Severe,22.64,Urgent irrigation
+F_021,Sugarcane,reproductive,SAR VH/VV ratio,0.2539,Severe,22.64,Urgent irrigation
+F_022,Fallow,vegetative,NDWI,-0.5064,Severe,0.0,No action
+F_023,Paddy,reproductive,SAR VH/VV ratio,0.2922,Severe,20.72,Urgent irrigation
+F_024,Sugarcane,reproductive,SAR VH/VV ratio,0.2642,Severe,22.64,Urgent irrigation
+F_025,Paddy,reproductive,SAR VH/VV ratio,0.2695,Severe,20.72,Urgent irrigation
+F_026,Soybean,reproductive,SAR VH/VV ratio,0.2857,Severe,18.8,Urgent irrigation
+F_027,Fallow,maturity,VCI,0.5883,Low,0.0,No action
+F_028,Sugarcane,reproductive,SAR VH/VV ratio,0.2469,Severe,22.64,Urgent irrigation
+F_029,Soybean,reproductive,SAR VH/VV ratio,0.2897,Severe,18.8,Urgent irrigation
+F_030,Cotton,reproductive,SAR VH/VV ratio,0.3685,Moderate,18.8,Urgent irrigation
+F_031,Cotton,reproductive,SAR VH/VV ratio,0.4509,Low,18.8,Urgent irrigation
+F_032,Cotton,reproductive,SAR VH/VV ratio,0.3865,Moderate,18.8,Urgent irrigation
+F_033,Soybean,maturity,VCI,0.8157,Low,0.0,No action
+F_034,Paddy,reproductive,SAR VH/VV ratio,0.2474,Severe,20.72,Urgent irrigation
+F_035,Fallow,vegetative,NDWI,-0.4629,Severe,0.0,No action
+F_036,Soybean,reproductive,SAR VH/VV ratio,0.316,Moderate,18.8,Urgent irrigation
+F_037,Paddy,reproductive,SAR VH/VV ratio,0.2995,Severe,20.72,Urgent irrigation
+F_038,Sugarcane,reproductive,SAR VH/VV ratio,0.258,Severe,22.64,Urgent irrigation
+F_039,Fallow,vegetative,NDWI,-0.3336,Severe,0.0,No action
+F_040,Cotton,maturity,VCI,0.8813,Low,1.52,No action
+F_041,Sugarcane,reproductive,SAR VH/VV ratio,0.2634,Severe,22.64,Urgent irrigation
+F_042,Paddy,reproductive,SAR VH/VV ratio,0.2952,Severe,20.72,Urgent irrigation
+F_043,Soybean,maturity,VCI,0.5392,Low,0.0,No action
+F_044,Paddy,reproductive,SAR VH/VV ratio,0.2786,Severe,20.72,Urgent irrigation
+F_045,Paddy,reproductive,SAR VH/VV ratio,0.294,Severe,20.72,Urgent irrigation
+F_046,Soybean,reproductive,SAR VH/VV ratio,0.2698,Severe,18.8,Urgent irrigation
+F_047,Soybean,reproductive,SAR VH/VV ratio,0.2637,Severe,18.8,Urgent irrigation
+F_048,Paddy,reproductive,SAR VH/VV ratio,0.2452,Severe,20.72,Urgent irrigation
+F_049,Cotton,maturity,VCI,0.3658,Moderate,1.52,No action
+F_050,Soybean,maturity,VCI,0.7194,Low,0.0,No action
+F_051,Soybean,reproductive,SAR VH/VV ratio,0.3306,Moderate,18.8,Urgent irrigation
+F_052,Fallow,vegetative,NDWI,-0.4206,Severe,0.0,No action
+F_053,Paddy,reproductive,SAR VH/VV ratio,0.2435,Severe,20.72,Urgent irrigation
+F_054,Soybean,reproductive,SAR VH/VV ratio,0.3971,Moderate,18.8,Urgent irrigation
+F_055,Cotton,reproductive,SAR VH/VV ratio,0.3873,Moderate,18.8,Urgent irrigation
+F_056,Soybean,reproductive,SAR VH/VV ratio,0.343,Moderate,18.8,Urgent irrigation
+F_057,Fallow,sowing,NDVI_anomaly + SMI,0.1837,Low,0.0,No action
+F_058,Soybean,reproductive,SAR VH/VV ratio,0.3058,Moderate,18.8,Urgent irrigation
+F_059,Soybean,reproductive,SAR VH/VV ratio,0.293,Severe,18.8,Urgent irrigation
+F_060,Cotton,reproductive,SAR VH/VV ratio,0.4374,Moderate,18.8,Urgent irrigation
+F_061,Cotton,reproductive,SAR VH/VV ratio,0.4125,Moderate,18.8,Urgent irrigation
+F_062,Sugarcane,maturity,VCI,0.336,Moderate,3.44,No action
+F_063,Paddy,reproductive,SAR VH/VV ratio,0.1989,Severe,20.72,Urgent irrigation
+F_064,Soybean,maturity,VCI,0.5797,Low,0.0,No action
+F_065,Fallow,vegetative,NDWI,-0.7311,Severe,0.0,No action
+F_066,Soybean,reproductive,SAR VH/VV ratio,0.225,Severe,18.8,Urgent irrigation
+F_067,Paddy,reproductive,SAR VH/VV ratio,0.3387,Moderate,20.72,Urgent irrigation
+F_068,Soybean,reproductive,SAR VH/VV ratio,0.2786,Severe,18.8,Urgent irrigation
+F_069,Paddy,reproductive,SAR VH/VV ratio,0.3045,Moderate,20.72,Urgent irrigation
+F_070,Soybean,maturity,VCI,0.4447,Moderate,0.0,No action
+F_071,Sugarcane,reproductive,SAR VH/VV ratio,0.2662,Severe,22.64,Urgent irrigation
+F_072,Sugarcane,maturity,VCI,0.7798,Low,3.44,No action
+F_073,Paddy,reproductive,SAR VH/VV ratio,0.2935,Severe,20.72,Urgent irrigation
+F_074,Paddy,reproductive,SAR VH/VV ratio,0.3781,Moderate,20.72,Urgent irrigation
+F_075,Fallow,vegetative,NDWI,-0.4978,Severe,0.0,No action
+F_076,Cotton,reproductive,SAR VH/VV ratio,0.3335,Moderate,18.8,Urgent irrigation
+F_077,Sugarcane,reproductive,SAR VH/VV ratio,0.2638,Severe,22.64,Urgent irrigation
+F_078,Cotton,reproductive,SAR VH/VV ratio,0.3549,Moderate,18.8,Urgent irrigation
+F_079,Fallow,sowing,NDVI_anomaly + SMI,0.1935,Low,0.0,No action
+F_080,Paddy,reproductive,SAR VH/VV ratio,0.2038,Severe,20.72,Urgent irrigation
+F_081,Soybean,reproductive,SAR VH/VV ratio,0.351,Moderate,18.8,Urgent irrigation
+F_082,Fallow,vegetative,NDWI,-0.8457,Severe,0.0,No action
+F_083,Paddy,reproductive,SAR VH/VV ratio,0.3179,Moderate,20.72,Urgent irrigation
+F_084,Cotton,reproductive,SAR VH/VV ratio,0.3893,Moderate,18.8,Urgent irrigation
+F_085,Paddy,reproductive,SAR VH/VV ratio,0.2222,Severe,20.72,Urgent irrigation
+F_086,Soybean,reproductive,SAR VH/VV ratio,0.3769,Moderate,18.8,Urgent irrigation
+F_087,Soybean,maturity,VCI,0.301,Moderate,0.0,No action
+F_088,Paddy,reproductive,SAR VH/VV ratio,0.2797,Severe,20.72,Urgent irrigation
+F_089,Paddy,reproductive,SAR VH/VV ratio,0.3086,Moderate,20.72,Urgent irrigation
+F_090,Fallow,vegetative,NDWI,-0.8566,Severe,0.0,No action
+F_091,Sugarcane,maturity,VCI,0.8016,Low,3.44,No action
+F_092,Fallow,sowing,NDVI_anomaly + SMI,0.3189,Moderate,0.0,No action
+F_093,Sugarcane,reproductive,SAR VH/VV ratio,0.1978,Severe,22.64,Urgent irrigation
+F_094,Fallow,maturity,VCI,0.8667,Low,0.0,No action
+F_095,Sugarcane,maturity,VCI,0.6105,Low,3.44,No action
+F_096,Fallow,sowing,NDVI_anomaly + SMI,0.4402,Moderate,0.0,No action
+F_097,Paddy,reproductive,SAR VH/VV ratio,0.3024,Moderate,20.72,Urgent irrigation
+F_098,Cotton,reproductive,SAR VH/VV ratio,0.3863,Moderate,18.8,Urgent irrigation
+F_099,Fallow,sowing,NDVI_anomaly + SMI,0.2113,Low,0.0,No action

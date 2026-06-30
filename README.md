@@ -1,3 +1,4 @@
+
 # AgroSense AI — Proof-of-Concept (Pilot Village Scale)
 
 This project is an end-to-end proof-of-concept (PoC) for the AgroSense AI pipeline. It is designed to validate the core logic of our system, specifically the crop classification and the Phenology-Gated Stress Index Fusion (PGSIF) decision engine, on a small scale.
@@ -30,3 +31,7 @@ This will run all steps and generate artifacts in the `outputs/` folder.
 * `outputs/confusion_matrix.png`
 * `outputs/feature_importance.png`
 * `outputs/pilot_village_summary.csv`
+
+# AgroSense-AI
+Phenology-Aware Satellite Intelligence for Precision Irrigation
+
